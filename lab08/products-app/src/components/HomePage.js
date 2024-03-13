@@ -43,7 +43,7 @@ const HomePage = () => {
                             <td style={styles.td}>Developer</td>
                         </tr>
                         <tr>
-                            <td style={styles.td}>Afsana Asha</td>
+                            <td style={styles.td}>Afsana Mumtarin Asha</td>
                             <td style={styles.td}>Designer</td>
                         </tr>
                     </tbody>
