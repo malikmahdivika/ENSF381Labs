@@ -1,3 +1,11 @@
+/*
+Name: lab8_exe_C.js
+Assignment: Lab 8, Exercise C
+Author(s): Afsana AxiosHeaders, Al Malik Mahdivika
+Submission: March 13, 2024
+Description: React.
+*/
+
 import React from 'react';
 
 const styles = {
@@ -43,7 +51,7 @@ const HomePage = () => {
                             <td style={styles.td}>Developer</td>
                         </tr>
                         <tr>
-                            <td style={styles.td}>Afsana Asha</td>
+                            <td style={styles.td}>Afsana Mumtarin Asha</td>
                             <td style={styles.td}>Designer</td>
                         </tr>
                     </tbody>
